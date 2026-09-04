@@ -3,7 +3,7 @@ from telebot import types
 from telebot.types import MessageEntity
 import random, threading, json, os
 
-BOT_TOKEN = "8848082883:AAF7YGVg_nzSL0XEGt4DQqdx_QuMnu7tcqQ"
+BOT_TOKEN = "сюда токен крч"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 OWNER_ID = 7730444670
