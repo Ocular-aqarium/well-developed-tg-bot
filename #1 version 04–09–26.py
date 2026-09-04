@@ -6,7 +6,7 @@ import random, threading, json, os
 BOT_TOKEN = "сюда токен крч"
 bot = telebot.TeleBot(BOT_TOKEN)
 
-OWNER_ID = 7730444670
+OWNER_ID = а сюда айди
 
 # ══════════════════════════════════════════════════
 #  БАЗА ПОЛЬЗОВАТЕЛЕЙ
